@@ -1,0 +1,68 @@
+total 11M
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:23 AppData/
+lrwxrwxrwx 1 waits 197609   30 Sep 19 22:23 Application Data -> /c/Users/waits/AppData/Roaming/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Contacts/
+lrwxrwxrwx 1 waits 197609   58 Sep 19 22:23 Cookies -> /c/Users/waits/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 waits 197609    0 Oct  5 14:54 Desktop/
+drwxr-xr-x 1 waits 197609    0 Sep 24 23:26 Documents/
+drwxr-xr-x 1 waits 197609    0 Oct  5 21:36 Downloads/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Favorites/
+drwxr-xr-x 1 waits 197609    0 Sep 28 06:37 Gal/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Links/
+lrwxrwxrwx 1 waits 197609   28 Sep 19 22:23 Local Settings -> /c/Users/waits/AppData/Local/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Music/
+lrwxrwxrwx 1 waits 197609   24 Sep 19 22:23 My Documents -> /c/Users/waits/Documents/
+-rw-r--r-- 1 waits 197609 6.3M Sep 30 21:43 NTUSER.DAT
+-rw-r--r-- 1 waits 197609  64K Sep 19 22:23 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+-rw-r--r-- 1 waits 197609 512K Sep 19 22:23 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 waits 197609 512K Sep 19 22:23 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 waits 197609   66 Sep 19 22:23 NetHood -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+drwxr-xr-x 1 waits 197609    0 Sep 30 21:44 OneDrive/
+drwxr-xr-x 1 waits 197609    0 Sep 20 02:32 Pictures/
+lrwxrwxrwx 1 waits 197609   66 Sep 19 22:23 PrintHood -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 waits 197609   55 Sep 19 22:23 Recent -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Saved Games/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:44 Searches/
+lrwxrwxrwx 1 waits 197609   55 Sep 19 22:23 SendTo -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 waits 197609   58 Sep 19 22:23 Templates -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 waits 197609    0 Sep 21 09:23 Videos/
+-rw-r--r-- 1 waits 197609    0 Oct  5 21:42 galgal.txt
+drwxr-xr-x 1 waits 197609    0 Sep 20 23:32 multipass/
+-rw-r--r-- 1 waits 197609 1.6M Sep 19 22:23 ntuser.dat.LOG1
+-rw-r--r-- 1 waits 197609 1.7M Sep 19 22:23 ntuser.dat.LOG2
+-rw-r--r-- 1 waits 197609   20 Sep 19 22:23 ntuser.ini
+lrwxrwxrwx 1 waits 197609   59 Sep 19 22:23 시작 메뉴 -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Start Menu/
+total 11M
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:23 AppData/
+lrwxrwxrwx 1 waits 197609   30 Sep 19 22:23 Application Data -> /c/Users/waits/AppData/Roaming/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Contacts/
+lrwxrwxrwx 1 waits 197609   58 Sep 19 22:23 Cookies -> /c/Users/waits/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 waits 197609    0 Oct  5 14:54 Desktop/
+drwxr-xr-x 1 waits 197609    0 Sep 24 23:26 Documents/
+drwxr-xr-x 1 waits 197609    0 Oct  5 21:36 Downloads/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Favorites/
+drwxr-xr-x 1 waits 197609    0 Sep 28 06:37 Gal/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Links/
+lrwxrwxrwx 1 waits 197609   28 Sep 19 22:23 Local Settings -> /c/Users/waits/AppData/Local/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Music/
+lrwxrwxrwx 1 waits 197609   24 Sep 19 22:23 My Documents -> /c/Users/waits/Documents/
+-rw-r--r-- 1 waits 197609 6.3M Sep 30 21:43 NTUSER.DAT
+-rw-r--r-- 1 waits 197609  64K Sep 19 22:23 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+-rw-r--r-- 1 waits 197609 512K Sep 19 22:23 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 waits 197609 512K Sep 19 22:23 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 waits 197609   66 Sep 19 22:23 NetHood -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+drwxr-xr-x 1 waits 197609    0 Sep 30 21:44 OneDrive/
+drwxr-xr-x 1 waits 197609    0 Sep 20 02:32 Pictures/
+lrwxrwxrwx 1 waits 197609   66 Sep 19 22:23 PrintHood -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 waits 197609   55 Sep 19 22:23 Recent -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:28 Saved Games/
+drwxr-xr-x 1 waits 197609    0 Sep 19 22:44 Searches/
+lrwxrwxrwx 1 waits 197609   55 Sep 19 22:23 SendTo -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 waits 197609   58 Sep 19 22:23 Templates -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 waits 197609    0 Sep 21 09:23 Videos/
+-rw-r--r-- 1 waits 197609 2.6K Oct  5 21:42 galgal.txt
+drwxr-xr-x 1 waits 197609    0 Sep 20 23:32 multipass/
+-rw-r--r-- 1 waits 197609 1.6M Sep 19 22:23 ntuser.dat.LOG1
+-rw-r--r-- 1 waits 197609 1.7M Sep 19 22:23 ntuser.dat.LOG2
+-rw-r--r-- 1 waits 197609   20 Sep 19 22:23 ntuser.ini
+lrwxrwxrwx 1 waits 197609   59 Sep 19 22:23 시작 메뉴 -> /c/Users/waits/AppData/Roaming/Microsoft/Windows/Start Menu/
